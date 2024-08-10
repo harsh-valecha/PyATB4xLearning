@@ -9,3 +9,6 @@ complex_number = 2+3j
 
 print(complex_number.real)
 print(complex_number.imag)
+
+lst=[10,20,30]
+print(sum(lst)) # does not works correctly when variables passed separately
