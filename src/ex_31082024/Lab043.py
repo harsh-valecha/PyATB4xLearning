@@ -45,16 +45,16 @@ print(employees)
 Please provide name:Kamlesh
 Please provide age:23
 Provide phone :5676868
-Provide address : Jai ho
+Provide address : Bhojpur
 Kamlesh is walking
 Kamlesh is talking
-id is 1 , name is Kamlesh , age is 23 , phone is 5676868 , address is Jai ho
+id is 1 , name is Kamlesh , age is 23 , phone is 5676868 , address is Bhojpur
 Please provide name:Jaktap
 Please provide age:45
 Provide phone :7987897897
-Provide address : khdkjshdkjh
+Provide address : Jalgaon
 Jaktap is walking
 Jaktap is talking
-id is 2 , name is Jaktap , age is 45 , phone is 7987897897 , address is khdkjshdkjh
+id is 2 , name is Jaktap , age is 45 , phone is 7987897897 , address is Jalgaon
 [Kamlesh, Jaktap]
 '''
